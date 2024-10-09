@@ -5,71 +5,71 @@ padding: 0;
 }
 @font-face {
     font-family: 'MyCustomFont';
-    src: url(./fonts/KobzarKS.ttf) format('truetype');  
-    src: url(./fonts/KobzarKS.woff) format('woff'); 
-    src: url(./fonts/KobzarKS.woff2) format('woff2');
-    src: url(./fonts/KobzarKS.svg) format('svg');
-    src: url(./fonts/KobzarKS.eot) format('eot');
+    src: url(./KobzarKS.ttf) format('truetype');  
+    src: url(./KobzarKS.woff) format('woff'); 
+    src: url(./KobzarKS.woff2) format('woff2');
+    src: url(./KobzarKS.svg) format('svg');
+    src: url(./KobzarKS.eot) format('eot');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: 'Gropled';
-    src:url(./fonts/KZ_Gropled.ttf) format('truetype');
-    src:url(./fonts/KZGropledBold.woff) format('woff');
-    src:url(./fonts/KZGropledBold.woff2) format('woff2');
-    src:url(./fonts/KZGropledBold.svg) format('svg');
-    src:url(./fonts/KZGropledBold.eot) format('eot');
+    src:url(./KZ_Gropled.ttf) format('truetype');
+    src:url(./KZGropledBold.woff) format('woff');
+    src:url(./KZGropledBold.woff2) format('woff2');
+    src:url(./KZGropledBold.svg) format('svg');
+    src:url(./KZGropledBold.eot) format('eot');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: 'Hombre';
-    src:url(./fonts/Monotype_-_Hombre_Bold_Italic.ttf) format('truetype');
-    src:url(./fonts/Hombre-BoldItalic.woff) format('woff');
-    src:url(./fonts/Hombre-BoldItalic.woff2) format('woff2');
-    src:url(./fonts/Hombre-BoldItalic.svg) format('svg');
-    src:url(./fonts/Hombre-BoldItalic.eot) format('eot');
+    src:url(./Monotype_-_Hombre_Bold_Italic.ttf) format('truetype');
+    src:url(./Hombre-BoldItalic.woff) format('woff');
+    src:url(./Hombre-BoldItalic.woff2) format('woff2');
+    src:url(./Hombre-BoldItalic.svg) format('svg');
+    src:url(./Hombre-BoldItalic.eot) format('eot');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: 'Mon-Amour';
-    src:url(./fonts/KZ_Mon_Amour_One.ttf) format('truetype');
-    src:url(./fonts/KZMonAmourOne.woff) format('woff');
-    src:url(./fonts/KZMonAmourOne.woff2) format('woff2');
-    src:url(./fonts/KZMonAmourOne.svg) format('svg');
-    src:url(./fonts/KZMonAmourOne.eot) format('eot');
+    src:url(./KZ_Mon_Amour_One.ttf) format('truetype');
+    src:url(./KZMonAmourOne.woff) format('woff');
+    src:url(./KZMonAmourOne.woff2) format('woff2');
+    src:url(./KZMonAmourOne.svg) format('svg');
+    src:url(./KZMonAmourOne.eot) format('eot');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: 'SharpSans';
-    src:url(./fonts/KZ_SamsungSharpSans.ttf) format('truetype');
-    src:url(./fonts/KZSamsungSharpSans-Bold.woff) format('woff');
-    src:url(./fonts/KZSamsungSharpSans-Bold.woff2) format('woff2');
-    src:url(./fonts/KZSamsungSharpSans-Bold.svg) format('svg');
-    src:url(./fonts/KZSamsungSharpSans-Bold.eot) format('eot');
+    src:url(./KZ_SamsungSharpSans.ttf) format('truetype');
+    src:url(.//KZSamsungSharpSans-Bold.woff) format('woff');
+    src:url(./KZSamsungSharpSans-Bold.woff2) format('woff2');
+    src:url(./KZSamsungSharpSans-Bold.svg) format('svg');
+    src:url(./KZSamsungSharpSans-Bold.eot) format('eot');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: 'Painter';
-    src:url(./fonts/KZ_Sign_Painter.ttf) format('truetype');
-    src:url(./fonts/KZSignPainter.woff) format('woff');
-    src:url(./fonts/KZSignPainter.woff2) format('woff2');
-    src:url(./fonts/KZSamsungSharpSans-Bold.svg) format('svg');
-    src:url(./fonts/KZSignPainter.eot) format('eot');
+    src:url(./KZ_Sign_Painter.ttf) format('truetype');
+    src:url(./KZSignPainter.woff) format('woff');
+    src:url(./KZSignPainter.woff2) format('woff2');
+    src:url(./KZSamsungSharpSans-Bold.svg) format('svg');
+    src:url(./KZSignPainter.eot) format('eot');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: 'Valisca';
-    src:url(./fonts/Valisca.ttf) format('truetype');
-    src:url(./fonts/Valisca.woff) format('woff');
-    src:url(./fonts/Valisca.woff2) format('woff2');
-    src:url(./fonts/Valisca.svg) format('svg');
-    src:url(./fonts/Valisca.eot) format('eot');
+    src:url(./Valisca.ttf) format('truetype');
+    src:url(./Valisca.woff) format('woff');
+    src:url(./Valisca.woff2) format('woff2');
+    src:url(./Valisca.svg) format('svg');
+    src:url(./Valisca.eot) format('eot');
     font-weight: normal;
     font-style: normal;
 }
